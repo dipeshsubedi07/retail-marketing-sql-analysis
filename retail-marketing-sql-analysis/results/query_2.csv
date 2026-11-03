@@ -1,0 +1,13 @@
+CampaignID,CampaignName,Budget,AttributedOrders,AttributedRevenue,RevenueToBudgetPercent
+1,EOFY Sale 2025,50000,5,1800,3.6
+3,Spring Collection 2025,25000,4,1670,6.68
+4,Black Friday 2025,60000,4,1640,2.73
+7,Easter Sale 2025,22000,3,1555,7.07
+2,Winter Warmup 2025,30000,3,855,2.85
+6,Valentines Day 2025,20000,2,690,3.45
+5,Christmas Sale 2025,45000,3,685,1.52
+9,Fathers Day 2025,18000,2,605,3.36
+8,Mothers Day 2025,18000,1,520,2.89
+12,Melbourne Cup Campaign,10000,1,495,4.95
+11,New Year New You 2025,12000,1,370,3.08
+10,Back to School 2025,15000,1,280,1.87
